@@ -1,4 +1,4 @@
-The code computes the Delaunay Traingulation and Voronoi Diagram out of a set of input points given in convex position.
+The code computes the Delaunay Traingulation and Voronoi Diagram out of a set of input points given in convex position, in linear time.
 
 Before run the code make sure a txt file (like "ExampleInput.txt") of x and y coordinates of points in convex position is included in the project folder.
 To run the code use the command "python3 -i delaunay_voronoi.py < ExampleInput.txt" to plot both dealaunay and vornoi graph.
